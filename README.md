@@ -6,9 +6,9 @@
 
 <p>Versión Mobile - Flexbox</p>
 <img src="https://github.com/Franckfer/Mercado-Liebre-TP4-Posicionamiento-con-FlexBox/blob/master/public/images/mobile.png">
-
+<br>
 <p>Versión Tablet - Flexbox</p>
 <img src="https://github.com/Franckfer/Mercado-Liebre-TP4-Posicionamiento-con-FlexBox/blob/master/public/images/tablet.png">
-
+<br>
 <p>Versión Desktop - Flexbox</p>
 <img src="https://github.com/Franckfer/Mercado-Liebre-TP4-Posicionamiento-con-FlexBox/blob/master/public/images/desktop.png">
